@@ -1,4 +1,4 @@
-# Washing-Machine-Simulator
+# Washing-Machine-Simulator-PIC16F877A
 A microcontroller-based Washing Machine Simulator using PIC16F877A, written in Embedded C using MPLAB X and simulated in PICSIMLAB.
 e# 🧼 Washing Machine Simulator using PIC16F877A
 
