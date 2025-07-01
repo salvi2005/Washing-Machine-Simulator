@@ -80,5 +80,5 @@ You may use or modify it for educational or non-commercial use.
 ## 👩‍💼 Author
 
 **Salvi Kashyap**  
-Final Year B.Tech Student, Electronics and Communicaion  
+7th semester 4th Year B.Tech Student from Electronics and Communication Branch.
 Indira Gandhi Government Engineering College, Sagar(M.P.)
