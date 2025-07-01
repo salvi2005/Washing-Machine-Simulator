@@ -77,8 +77,8 @@ You may use or modify it for educational or non-commercial use.
 
 ---
 
-## 🙋‍♂️ Author
+## 👩‍💼 Author
 
-**Madhire Kalyan Sathwik**  
-Final Year B.Tech Student, Computer Science and Technology  
-Indian Institute of Engineering Science and Technology (IIEST), Shibpur
+**Salvi Kashyap**  
+Final Year B.Tech Student, Electronics and Communicaion  
+Indira Gandhi Government Engineering College, Sagar(M.P.)
